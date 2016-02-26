@@ -1,7 +1,4 @@
-## @package screenshot
-#  Documentation for this module.
-#
-#  More details.
+# PhantomJs needed or other browser
 
 from selenium import webdriver
 import csv
